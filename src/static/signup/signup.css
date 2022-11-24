@@ -1,0 +1,29 @@
+.signupcontainer {
+    background-color: white;
+    border: 1px solid rgb(23,119,242);
+}
+
+.signup_name {
+    color: rgb(23,119,242);
+    padding: 10px;
+}
+
+.signup_center {
+    text-align: center;
+}
+
+.signup_form input{
+    border: 1px solid rgb(174, 178, 184);
+    border-radius: 5px;
+    line-height: 30px
+}
+
+.signup_input {
+    border: 1px solid rgb(23,119,242) !important;
+}
+
+.signup_btn:hover {
+    background-color: rgb(3,154,248);
+    color: white;
+    border: none;
+}
